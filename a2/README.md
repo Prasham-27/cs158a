@@ -9,9 +9,9 @@ You will need at least two separate terminal windows: one for the server and at 
 ### 1. Start the Server
 
 In the first terminal, navigate to the `a2` directory and run the server script:
-
-`python3 mychatserver.py`
-
+```
+python3 mychatserver.py
+```
 The server will start and print a message indicating it's listening for connections.
 
 `Server listening on 127.0.0.1:12345`
@@ -19,9 +19,9 @@ The server will start and print a message indicating it's listening for connecti
 ### 2. Start the Client(s)
 
 In one or more new terminal windows, navigate to the `a2` directory and run the client script:
-
-`python3 mychatclient.py`
-
+```
+python3 mychatclient.py
+```
 Each client will connect to the server. You can now type messages and press Enter to send them. Messages from other clients will appear in your terminal. To leave the chat, simply type `exit` and press Enter.
 
 ## Execution Example

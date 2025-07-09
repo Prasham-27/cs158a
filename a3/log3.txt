@@ -1,0 +1,12 @@
+2025-07-09 09:36:21,848 - My Process UUID is 62eab4cd-917a-40ca-965e-350938343a20
+2025-07-09 09:36:21,848 - Server listening on 127.0.0.1:5003
+2025-07-09 09:36:22,549 - Accepted connection from ('127.0.0.1', 55824)
+2025-07-09 09:36:22,550 - Received: uuid=dfb188e6-eb5e-4f8f-9531-9d315736e959, flag=0, greater, 0
+2025-07-09 09:36:23,854 - Connected to client at 127.0.0.1:5001
+2025-07-09 09:36:23,854 - Sent: uuid=62eab4cd-917a-40ca-965e-350938343a20, flag=0
+2025-07-09 09:36:23,855 - Sent: uuid=dfb188e6-eb5e-4f8f-9531-9d315736e959, flag=0
+2025-07-09 09:36:23,859 - Received: uuid=dfb188e6-eb5e-4f8f-9531-9d315736e959, flag=1, greater, 0
+2025-07-09 09:36:23,859 - Leader is decided to dfb188e6-eb5e-4f8f-9531-9d315736e959
+2025-07-09 09:36:23,859 - Sent: uuid=dfb188e6-eb5e-4f8f-9531-9d315736e959, flag=1
+2025-07-09 09:36:23,859 - Server thread finished.
+2025-07-09 09:36:25,964 - Process finished.
